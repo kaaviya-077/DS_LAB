@@ -57,4 +57,3 @@ Array Operations Menu:
 4. Delete Element 
 5. Display Array 
 6. Exit 
-Enter your choice: 5 
