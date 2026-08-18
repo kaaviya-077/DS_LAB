@@ -176,5 +176,3 @@ void displayList(struct Node* head) {
      printf("NULL\n"); 
 }    
 
-6. Exit  
-Enter your choice: 6###
