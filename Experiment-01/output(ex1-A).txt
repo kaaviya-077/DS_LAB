@@ -1,4 +1,4 @@
-##OUTPUT: 
+OUTPUT: 
 Array Operations Menu: 
 1. Create Array 
 2. Insert Element 
@@ -57,3 +57,5 @@ Array Operations Menu:
 4. Delete Element 
 5. Display Array 
 6. Exit 
+Enter your choice: 5 
+Array elements: 1 2 3 4 5
