@@ -88,3 +88,56 @@ printf("Invalid choice! Please enter a valid option.\n");
 return 0; 
 } 
  
+###OUTPUT: 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 1 
+Enter element to enqueue: 5 
+5 insert into queue 
+ 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 1 
+Enter element to enqueue: 2 
+2 insert into queue 
+ 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 1 
+Enter element to enqueue: 4 
+4 insert into queue 
+ 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 2 
+Dequeued element: 5 
+ 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 3 
+queue elements: 2 4  
+ 
+Queue Operations Menu: 
+1. Enqueue 
+2. Dequeue 
+3. Display 
+4. Exit 
+Enter your choice: 4 
+ 
+ 
+=== Code Execution Successful ===###
